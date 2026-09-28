@@ -91,13 +91,13 @@ Example:
 - Booking information may not be connected to a live database.
 - Some application functionality may be demonstrated using sample data.
 
-## Author
+## Authors
+ST10528287-Kego-Mahlakoane
+ST10516544-Boithabo-Lekoa
+ST10517312-mayenziwe-masemola
 
-**Your Name**
+## Students Information
 
-## Student Information
-
-- Student Number: 
 - Course: Higher Certificate in Mobile Applications Development
 - Module: Work Integrated Learning 1 XHAW5112 2026 FT HMAW0501 EMGPMD Term2 GR01
 - Institution: Emeris Waterfall

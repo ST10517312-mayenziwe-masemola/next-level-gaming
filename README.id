@@ -1,0 +1,98 @@
+# Next Level Gaming & Esports Arena - Website
+
+## Description
+
+The Next Level Gaming & Esports Arena website is a web-based platform designed to provide customers with information about the gaming and esports arena in Johannesburg.
+
+The website allows users to explore gaming packages, gaming experiences, booking options, quotations and account-related information.
+
+The website is designed to provide customers with an easy way to learn about the available services and interact with Next Level Gaming & Esports Arena online.
+
+## Features
+
+- Home page
+- User login
+- User registration
+- Gaming packages
+- Package details
+- Gaming experiences
+- Experience details
+- Online booking
+- Quotation calculation
+- My bookings
+- User profile
+- Contact and business information
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Requirements
+
+- A modern web browser such as:
+  - Google Chrome
+  - Microsoft Edge
+  - Mozilla Firefox
+- Code editor such as Visual Studio Code
+- Internet connection
+
+## Installation
+
+1. Download or clone the project.
+2. Open the project folder.
+3. Open the project in Visual Studio Code or another code editor.
+4. Make sure all HTML, CSS and JavaScript files are in their correct folders.
+5. Open the main HTML file in a web browser.
+6. Alternatively, use the Live Server extension in Visual Studio Code to run the website.
+
+## Usage
+
+1. Open the Next Level Gaming & Esports Arena website.
+2. Browse the home page.
+3. Register for an account or log in.
+4. Browse the available gaming packages.
+5. Select a package to view its details.
+6. Browse the available gaming experiences.
+7. Select an experience to view its details.
+8. Complete the booking information.
+9. View the quotation.
+10. Access booking and profile information where applicable.
+
+## Screenshots
+
+Screenshots of the completed website will be added here.
+
+Example:
+
+- Home Page
+- Login Page
+- Register Page
+- Gaming Packages
+- Package Details
+- Experiences
+- Experience Details
+- Booking
+- Quotation
+- My Bookings
+- Profile
+- Contact Page
+
+## Known Issues
+
+- Some website functionality may use sample data during development.
+- Booking information may not be connected to a live database.
+- Some features may be limited depending on the final implementation.
+
+## Author
+ST10528287-Kego-Mahlakoane
+ST10516544-Boithabo-Lekoa
+ST10517312-Mayenziwe-Masemola
+
+
+## Student Information
+
+- Course: Higher Certificate in Mobile Applications Development
+- Module: Work Integrated Learning 1 XHAW5112 2026 FT HMAW0501 EMGPMD Term2 GR01
+- Institution: Emeris Waterfall
